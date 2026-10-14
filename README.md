@@ -1,1 +1,5 @@
-# cs101-version-control-166
+# My CS Profile
+
+## About Me
+- Name: Tanwa Chamnandong
+- Major: Computer Science
